@@ -1,0 +1,12 @@
+{
+  "name": "loadtesting",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "autocannon": "^7.5.0"
+  }
+}
